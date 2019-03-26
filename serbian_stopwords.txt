@@ -13,7 +13,6 @@ bio
 bismo
 biste
 biti
-blizu
 broj
 bumo
 ce
@@ -27,8 +26,6 @@ da
 dana
 danas
 do
-dobar
-dobiti
 doci
 dok
 dole
@@ -44,7 +41,6 @@ hocemo
 hoces
 hocete
 hocu
-hvala
 i
 iako
 ici
@@ -59,11 +55,9 @@ iz
 izmedju
 iznad
 izvan
-izvoli
 ja
 je
 jedan
-jedini
 jedna
 jedne
 jedno
@@ -92,15 +86,12 @@ kojima
 koju
 kroz
 li
-mali
-manji
 me
 mene
 meni
 mi
 mimo
 misli
-mnogo
 moci
 mogu
 moj
@@ -132,14 +123,13 @@ nekad
 neki
 nekog
 neku
+neko
 nema
 nemam
 nesto
-netko
 ni
 nije
 nijedan
-nikada
 nikoga
 nikoje
 nikoju
@@ -169,7 +159,6 @@ nju
 no
 o
 od
-odmah
 oko
 okolo
 on
@@ -179,7 +168,6 @@ oni
 ono
 osim
 ostali
-otisao
 ova
 ovako
 ovamo
@@ -233,7 +221,6 @@ svoje
 svom
 svugde
 ta
-tacno
 tada
 taj
 tako
@@ -272,7 +259,6 @@ video
 vise
 vrlo
 za
-zahvaliti
 zar
 zasto
 zbog
